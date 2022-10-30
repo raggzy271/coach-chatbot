@@ -1,5 +1,5 @@
 # chatbot
-A deep learning chatbot created with Python and Flask
+A self learning chatbot created with Python and Flask
 
 
 
